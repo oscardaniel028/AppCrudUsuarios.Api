@@ -1,0 +1,12 @@
+# Archivos de Visual Studio
+.vs/
+*.user
+*.suo
+*.exe
+*.dll
+*.obj
+*.log
+*.vsidx
+*.pdb
+bin/
+obj/
