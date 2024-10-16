@@ -1,6 +1,6 @@
 # AppCrudUsuarios.Api
 Este proyecto es una API RESTful para la gestión de usuarios que permite realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) y gestionar la autenticación mediante JWT. Está diseñado con una arquitectura en capas y es fácil de extender y mantener.
-##Caracteristicas
+## Caracteristicas
 
 - Gestión de Usuarios: Permite crear, leer, actualizar y eliminar usuarios.
 - Control de Acceso: Implementación de niveles de acceso a través de autenticación JWT.
@@ -9,7 +9,7 @@ Este proyecto es una API RESTful para la gestión de usuarios que permite realiz
 - Base de Datos: Conexión a SQL Server para almacenamiento persistente de datos.
 - Gestión de Sesiones: Autenticación de usuarios mediante tokens JWT.
 
-##Tecnologias utilizadas
+## Tecnologias utilizadas
 - C#: Lenguaje de programación principal para el desarrollo de la API.
 - ASP.NET Core: Framework utilizado para crear la API RESTful.
 - SQL Server: Base de datos para almacenar la información de usuarios.
@@ -19,7 +19,7 @@ Este proyecto es una API RESTful para la gestión de usuarios que permite realiz
 - Inyección de Dependencias: Para gestionar la creación de instancias de servicios y repositorios.
 - LINQ: Para realizar consultas a la base de datos de forma sencilla y efectiva.
 
-##Estructura del Proyecto
+## Estructura del Proyecto
 - AppCrudUsuarios.Api: Contiene los controladores de la API y la configuración de la aplicación.
 - AppCrudUsuarios.Business: Contiene la lógica de negocio y los servicios de la aplicación.
 - AppCrudUsuarios.Data: Contiene el contexto de la base de datos y las entidades.
